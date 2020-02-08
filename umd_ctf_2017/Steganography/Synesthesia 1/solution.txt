@@ -1,0 +1,3 @@
+Open with sonic visualizer, switch to spectragram
+
+UMDCTF-{Wave_Fil3_Gui_Any0ne?}

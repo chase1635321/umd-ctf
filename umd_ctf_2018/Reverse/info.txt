@@ -1,0 +1,7 @@
+EzPz: 10 points
+JarJar: 30 points (Reversing with java library calls)
+Strange Asm: 30 points (Assembly text file)
+Pyton Cafe: 40 points (Obfuscated python)
+Lorem Mipsum: 50 points (Reversing MIPS assembly)
+XORcise: 70 points
+Scary Bin: 80 points

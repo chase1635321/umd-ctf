@@ -1,0 +1,1 @@
+use cewl to generate wordlist, then rockyou.txt
