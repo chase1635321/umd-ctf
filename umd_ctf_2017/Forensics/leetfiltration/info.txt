@@ -1,0 +1,2 @@
+tshark -r capture.cap -x | grep "f8 13"
+Dumps 32 partially formed 1337 or 13
