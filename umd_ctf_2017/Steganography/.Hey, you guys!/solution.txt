@@ -1,0 +1,2 @@
+Use png-parser to get length of each section
+Convert these ascii numbers to characters
