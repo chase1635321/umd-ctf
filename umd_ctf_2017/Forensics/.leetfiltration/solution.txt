@@ -1,0 +1,3 @@
+There's a sender and reciever, one of them always responds with either the data 13 or 1337. 13 corresponds to 0, 1337 corresponds to 1. The solve.py script will extract the binary from the file. This binary can be dumped into cyberchef to get the flag.
+
+UMDCTF-{exfiltration_thr0ugh_patt3rns}
